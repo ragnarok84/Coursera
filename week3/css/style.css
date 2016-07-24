@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	color: red;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-size: 175%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h2 {
+	text-align: center;
+	color: blue;
+	font-size: 125%;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p {
+	text-align: justify;
+	padding: 15px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+section {
+	padding: 0 15px;
+}
+section div{
+	background-color: lightgray;
+	border: 1px solid black;
+	margin-bottom: 20px;
+	padding: 0;
+}
